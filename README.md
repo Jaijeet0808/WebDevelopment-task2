@@ -20,7 +20,7 @@ This project is a basic web development practice to improve skills in HTML, CSS,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-jaijeetpaul/your-repo-task-2.git
+   [git clone https://github.com/your-jaijeetpaul/your-repo-task-2.git](https://github.com/Jaijeet0808/WebDevelopment-task2)
 
 2. Open task2.html in your browser to view the project.
 
